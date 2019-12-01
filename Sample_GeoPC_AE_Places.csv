@@ -1,0 +1,101 @@
+iso;country;language;id;region1;region2;region3;region4;locality;postcode;suburb;latitude;longitude;elevation;iso2;fips;nuts;hasc;stat;timezone;utc;dst
+AE;United Arab Emirates;EN;1000000092;Abu Dhabi;;;;Abu Dhabi;;;24.474796;54.370576;8;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000093;Abu Dhabi;;;;Abu Dhabi Airport;;;24.423100;54.656100;24;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000094;Abu Dhabi;;;;Abu Dhabi Gate City;;;24.393700;54.502100;2;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000095;Abu Dhabi;;;;Al Ain;;;24.223974;55.751006;277;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000096;Abu Dhabi;;;;Al Aman;;;24.432260;54.423530;3;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000097;Abu Dhabi;;;;Al Atir;;;23.162610;53.736170;124;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000098;Abu Dhabi;;;;Al Ayn;;;24.191670;55.760560;277;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000100;Abu Dhabi;;;;Al Bahia;;;24.560937;54.640933;0;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000101;Abu Dhabi;;;;Al Baladiyah;;;24.487860;54.374470;7;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000103;Abu Dhabi;;;;Al Bateen;;;24.445966;54.352623;3;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000104;Abu Dhabi;;;;Al Dhafrah;;;24.476147;54.369360;9;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000105;Abu Dhabi;;;;Al Falah City;;;24.436800;54.705000;27;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1012387859;Abu Dhabi;;;;Al Falah New Community;;;24.448868;54.727545;31;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000106;Abu Dhabi;;;;Al Ghadeer;;;24.842717;55.027150;30;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000107;Abu Dhabi;;;;Al Hadhi;;;23.106420;53.995270;104;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000108;Abu Dhabi;;;;Al Hayer;;;24.588886;55.744158;291;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000109;Abu Dhabi;;;;Al Hisn;;;24.480230;54.353010;5;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000110;Abu Dhabi;;;;Al Hosn;;;24.482646;54.352166;5;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000111;Abu Dhabi;;;;Al Hudayriat Island;;;24.420600;54.349000;3;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000112;Abu Dhabi;;;;Al Idd;;;23.079890;53.552450;105;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000113;Abu Dhabi;;;;Al Ittihad;;;24.454980;54.388570;-3;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000114;Abu Dhabi;;;;Al Jahr;;;24.250000;55.583330;213;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000115;Abu Dhabi;;;;Al Jami al Kabir;;;24.412370;54.476200;20;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000117;Abu Dhabi;;;;Al Karamah;;;24.465300;54.371509;5;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000118;Abu Dhabi;;;;Al Khabb;;;24.589690;55.746270;298;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000119;Abu Dhabi;;;;Al Khaleej Al Arabi;;;24.421800;54.420000;6;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000120;Abu Dhabi;;;;Al Khalidiya;;;24.470182;54.347228;24;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000121;Abu Dhabi;;;;Al Khalidiyah;;;24.467690;54.349590;11;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000123;Abu Dhabi;;;;Al Khatim;;;24.200000;54.833330;81;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000124;Abu Dhabi;;;;Al Khazna;;;24.169088;55.134002;143;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000125;Abu Dhabi;;;;Al Khaznah;;;24.167970;55.111570;129;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000126;Abu Dhabi;;;;Al Khis;;;23.008480;54.196260;109;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000127;Abu Dhabi;;;;Al Khubayrah;;;24.463460;54.331080;7;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000128;Abu Dhabi;;;;Al Khubeirah;;;24.465247;54.336830;9;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000129;Abu Dhabi;;;;Al Mafraq;;;24.303840;54.628910;11;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000132;Abu Dhabi;;;;Al Manhal;;;24.476550;54.360573;4;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000133;Abu Dhabi;;;;Al Maqta;;;24.402600;54.471400;2;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000134;Abu Dhabi;;;;Al Marfa;;;24.099110;53.490770;7;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000135;Abu Dhabi;;;;Al Mariah United Group;;;24.494240;54.367670;14;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000136;Abu Dhabi;;;;Al Mariyah;;;23.138480;53.742600;108;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000137;Abu Dhabi;;;;Al Mariyah al Gharbiyah;;;23.102650;53.581850;108;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000138;Abu Dhabi;;;;Al Markaziyah;;;24.493343;54.366675;18;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000139;Abu Dhabi;;;;Al Mashrub;;;23.076460;54.013470;100;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000140;Abu Dhabi;;;;Al Mina;;;24.520660;54.372529;10;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000141;Abu Dhabi;;;;Al Mirfa;;;24.096160;53.487065;42;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000142;Abu Dhabi;;;;Al Mughayra';;;24.078430;53.538420;13;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000143;Abu Dhabi;;;;Al Muqattarah;;;24.267620;54.561930;24;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000144;Abu Dhabi;;;;Al Muroor;;;24.449728;54.403337;8;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000145;Abu Dhabi;;;;Al Murur;;;24.449300;54.402970;11;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000147;Abu Dhabi;;;;Al Musalla;;;24.458530;54.376990;8;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000149;Abu Dhabi;;;;Al Mushrif;;;24.447226;54.377488;4;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000150;Abu Dhabi;;;;Al Mu'tarad;;;24.219000;55.739890;273;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000152;Abu Dhabi;;;;Al Muwayqi'i;;;24.233330;55.700000;255;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000153;Abu Dhabi;;;;Al Muzun;;;24.410600;54.434310;8;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000154;Abu Dhabi;;;;Al Nahda;;;24.244500;54.741100;40;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000155;Abu Dhabi;;;;Al Nahyan;;;24.464930;54.391340;-3;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000156;Abu Dhabi;;;;Al Najda;;;24.495780;54.367750;6;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000157;Abu Dhabi;;;;Al Qaia;;;24.519260;55.756060;301;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000158;Abu Dhabi;;;;Al Qimi;;;24.249140;55.745820;279;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000159;Abu Dhabi;;;;Al Qurm;;;24.437000;54.452100;0;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000160;Abu Dhabi;;;;Al Raha Beach;;;24.438100;54.572800;4;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000161;Abu Dhabi;;;;Al Raha Corniche;;;24.442460;54.446530;6;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000162;Abu Dhabi;;;;Al Raha Gardens;;;24.434152;54.573176;0;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000163;Abu Dhabi;;;;Al Raha Golf Gardens;;;24.420562;54.532078;9;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000164;Abu Dhabi;;;;Al Rahba;;;24.625061;54.712876;8;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000165;Abu Dhabi;;;;Al Ras Al Akhdar;;;24.459483;54.309943;6;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000166;Abu Dhabi;;;;Al Rawdah;;;24.978117;55.433117;76;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000167;Abu Dhabi;;;;Al Reef;;;24.454611;54.674190;21;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000168;Abu Dhabi;;;;Al Reem Island;;;24.492900;54.406000;4;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000169;Abu Dhabi;;;;Al Rowdah;;;24.456413;54.359557;6;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000170;Abu Dhabi;;;;Al Ruwais;;;24.087699;52.655261;29;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000171;Abu Dhabi;;;;Al Samha;;;24.678700;54.758200;12;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000172;Abu Dhabi;;;;Al Shahama;;;24.548100;54.683700;18;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000173;Abu Dhabi;;;;Al Shamkha;;;24.388469;54.718414;32;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000174;Abu Dhabi;;;;Al Sowwah;;;24.499800;54.390400;2;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000175;Abu Dhabi;;;;Al Udayd;;;24.616670;51.400000;7;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000176;Abu Dhabi;;;;Al Wahda;;;24.468855;54.376723;10;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000177;Abu Dhabi;;;;Al Wahdah;;;24.468760;54.376320;10;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000178;Abu Dhabi;;;;Al Wathba;;;24.265300;54.700600;52;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000179;Abu Dhabi;;;;Al Wathbah;;;24.259580;54.707810;57;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000180;Abu Dhabi;;;;Al Zaab;;;24.467010;54.360180;11;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000181;Abu Dhabi;;;;An Nadi as Siyahi;;;24.494840;54.378910;3;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000182;Abu Dhabi;;;;An Nashshash;;;23.081100;54.036350;108;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000183;Abu Dhabi;;;;Aqbiyah;;;24.161110;55.656940;235;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000184;Abu Dhabi;;;;Aradah;;;22.992310;53.428920;167;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000185;Abu Dhabi;;;;Ar Ra's al Akhdar;;;24.460720;54.307130;4;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000186;Abu Dhabi;;;;Ar Rawdah;;;24.460350;54.367090;3;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000187;Abu Dhabi;;;;Ar Rihan;;;24.428490;54.435490;6;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000188;Abu Dhabi;;;;Ar Ruways;;;24.110280;52.730560;12;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000189;Abu Dhabi;;;;Ash Shahamah;;;24.549770;54.680910;17;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000190;Abu Dhabi;;;;Ash Shibhanah;;;24.133330;51.650000;30;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000191;Abu Dhabi;;;;As Sad;;;24.150000;55.766670;312;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000192;Abu Dhabi;;;;As Slabeikh;;;24.183330;55.216670;151;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000193;Abu Dhabi;;;;As Sulaymat;;;24.221940;55.603060;220;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000194;Abu Dhabi;;;;Attab;;;23.151800;53.881100;110;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000195;Abu Dhabi;;;;Ayn al Faydah;;;24.083330;55.683330;224;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000196;Abu Dhabi;;;;Az Za'ab;;;24.467960;54.360020;4;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000197;Abu Dhabi;;;;Az Zafrah;;;24.478250;54.375660;13;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000198;Abu Dhabi;;;;Az Zahra;;;24.439050;54.435480;7;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
+AE;United Arab Emirates;EN;1000000199;Abu Dhabi;;;;Badiyah;;;23.616190;53.843090;109;AE-AZ;AE01;;AE.AZ;;Asia/Dubai;+04:00;+04:00
