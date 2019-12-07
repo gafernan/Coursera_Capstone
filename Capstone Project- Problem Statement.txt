@@ -1,0 +1,5 @@
+Problem Statement - To select a Borough in Toronto to open upa resturant. 
+
+Approach  : The Problem would be solved using the clustering/segmentation algorithm
+
+Details  : Please refer to Capstone Project - Week 1 for grading my assignment
